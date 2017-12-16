@@ -48,7 +48,7 @@ The `constraint` makes sure that the container will be created on the local node
 
 ## Entering the debug container
 
-- Once our container is started (which should be really fast because the alpine image is small), we can enter it (from any node)
+- Once our container is started (which should be really fast because the alpine image is small), we can enter it (from the local node)
 
 .exercise[
 
